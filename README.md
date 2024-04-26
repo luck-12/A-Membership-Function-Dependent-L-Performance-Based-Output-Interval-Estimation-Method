@@ -27,7 +27,7 @@ membership function-dependent property well.
 
 ### File Descriptions
 
-The main code used throughout the [manuscript](https://arxiv.org/abs/2101.10784) can be found in
+The main code can be found in
 ```
 project_fig123.m
 project_fig4.m
