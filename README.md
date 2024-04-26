@@ -22,8 +22,8 @@ membership function-dependent property well.
 
 ### Dependencies
 
-1- Download CORA 2020 and yalmip toolboxs.
-2- Add CORA and MPT folder and subfolders to the Matlab path.
+1- Download CORA 2020, MPT and yalmip toolboxs.
+2- Add CORA, MPT and yalmipfolder and subfolders to the Matlab path.
 
 ### File Descriptions
 
