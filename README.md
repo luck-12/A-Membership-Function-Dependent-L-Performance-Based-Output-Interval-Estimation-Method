@@ -22,7 +22,8 @@ membership function-dependent property well.
 
 ### Dependencies
 
-The code requires the installation of the [CORA MATLAB toolbox](https://tumcps.github.io/CORA/)
+1- Download CORA 2020 and yalmip toolboxs.
+2- Add CORA and MPT folder and subfolders to the Matlab path.
 
 ### File Descriptions
 
